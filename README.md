@@ -1,7 +1,7 @@
 # Cdctf
 This is a simple tool to quickly cd into folders by their name without remembering their path; I use it during CTFs to cd into challenge or ctf folders because I'm too lazy to type out the whole path
 
-It works on the asumption that yuo have one folder where you dump all folders about ctfs and challenges; for example I have a folder that contains a folder for each ctf that contain a folder for each challenge
+It works on the asumption that you have one folder where you dump all folders about ctfs and challenges; for example I have a folder that contains a folder for each ctf that contain a folder for each challenge
 
 For most people this (putting it in your .bashrc; props @Loldemort) would be enough, and is maybe what I would reccomend, since this tool is better but it's also way overkill:
 ```bash
